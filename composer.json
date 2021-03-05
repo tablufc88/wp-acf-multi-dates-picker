@@ -1,0 +1,19 @@
+{
+  "name": "tablufc88/wp-acf-multi-dates-picker",
+  "description": "Fork from nan-guo/Wordpress-ACF-Multi-Dates-Picker",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/tablufc88",
+  "authors": [
+    {
+      "name": "Tom Barber",
+      "homepage": "https://github.com/tablufc88"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
